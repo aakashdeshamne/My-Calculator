@@ -1,14 +1,14 @@
 # React Native Calculator  
-**Calc by Prashant**
+**Calc by Aakash**
 download app:
-https://expo.dev/accounts/prashaant14/projects/calculator-app/builds/b57f0d1e-300e-4371-9115-0b47f589d1b7
+https://expo.dev/accounts/prashaant14/projects/calculator-app/builds/d7425ff9-3f65-41fc-b0e1-9c8ded7f823e
 
 A React Native calculator with light and dark theme toggling.
 
 ### Screens
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/PrashantDesale2004/React-Naive-Calculator/blob/main/CalByPrashant.jpeg" alt="Calculator Overview" width="45%" />
+  <img src="https://github.com/aakashdeshamne/My-Calculator/blob/main/AakashCalc.jpeg" alt="Calculator Overview" width="45%" />
   
 </div>
 
