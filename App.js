@@ -194,7 +194,7 @@ export default function App() {
             <TouchableOpacity 
                     style={styles.prash} 
                     >
-                    <Text style={styles.clearButtonText}>Cal by Prashant </Text>
+                    <Text style={styles.clearButtonText}>Cal by Aakash </Text>
               </TouchableOpacity>
             
         </View>
